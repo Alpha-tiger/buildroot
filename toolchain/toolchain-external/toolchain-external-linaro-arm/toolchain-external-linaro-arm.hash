@@ -1,3 +1,3 @@
 # Locally calculated
-sha256  ed9efdf6c66514d51d4aa23e45468958  gcc-linaro-7.3.1-2018.05-i686_arm-linux-gnueabihf.tar.xz
-sha256  7e5a330aed9dfbe69c79589911db29d9  gcc-linaro-7.3.1-2018.05-x86_64_arm-linux-gnueabihf.tar.xz
+md5sum  ed9efdf6c66514d51d4aa23e45468958  gcc-linaro-7.3.1-2018.05-i686_arm-linux-gnueabihf.tar.xz
+md5sum  7e5a330aed9dfbe69c79589911db29d9  gcc-linaro-7.3.1-2018.05-x86_64_arm-linux-gnueabihf.tar.xz
